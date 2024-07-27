@@ -1,4 +1,1 @@
-#
-
-EXECUTE THIS:
-      rm -rf node-app
+# used to deploy to digital ocean droplet
